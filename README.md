@@ -25,8 +25,8 @@ This web application provides real-time sentiment analysis for textual inputs us
 4. **Visualize:** Interpret sentiment proportions visually to understand the distribution of negative, neutral, and positive sentiments.
 
 ## Enter The Text
-![DPR-S-Sentiment-Analyser](start.png)
+![DPR-S-Sentiment-Analyser](Start.png)
 ## The Analysis
-![DPR-S-Sentiment-Analyser](process.png)
+![DPR-S-Sentiment-Analyser](Process.png)
 
 This application is designed to provide users with actionable insights into the sentiment conveyed by text, helping them understand and analyze textual data more effectively.
